@@ -1,14 +1,14 @@
-server:
-  port: 8191
-spring:
-  cloud:
-    config:
-      server:
-        git:
+#server:
+#  port: 8191
+#spring:
+#  cloud:
+#    config:
+#      server:
+#        git:
 #          uri: https://github.com/krish/spring-cloud-config
-          uri: https://github.com/mdiegox/spring-cloud-config
-          search-paths:
-           - '*service'
+#          uri: https://github.com/mdiegox/spring-cloud-config
+#          search-paths:
+#           - '*service'
 
 
 

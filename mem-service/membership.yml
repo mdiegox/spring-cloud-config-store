@@ -2,7 +2,7 @@ member:
  rent:
   min: 7
   max: 30
- price:
+ price: 48000
   discount: 3
 vehicle:
  default:
